@@ -31,7 +31,7 @@ Follow these steps to setup your git _fork_ and _branch_.
 - [x] Fork this repository.
 - [x] Use GitHub's website to add your project manager as collaborator on **your fork**.
 - [x] **Clone your forked version** of the repository (**Not Lambda's**!).
-- [ ] Create a new branch: `git checkout -b <firstName-lastName>`.
+- [x] Create a new branch: `git checkout -b <firstName-lastName>`.
 - [ ] Commit changes to your `<firstName-lastName>` branch.
 - [ ] Push often to your branch: `git push origin <firstName-lastName>`.
 
